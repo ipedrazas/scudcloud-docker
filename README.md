@@ -8,7 +8,7 @@ To run it, you just have to execute the following command:
     -v /var/lib/dbus/machine-id:/var/lib/dbus/machine-id \
     -v /tmp/.X11-unix:/tmp/.X11-unix \
     -v $HOME/.Xauthority:/root/.Xauthority \
-    ipedrazas/scudcloud
+     quay.io/ipedrazas/slack
 ```
 
 Happy slacking!
